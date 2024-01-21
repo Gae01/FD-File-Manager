@@ -1,19 +1,16 @@
-# Mobile File Manager
+# flutter_application_1
 
-## [Watch it on YouTube](https://youtu.be/0ypIiHqJ1RU)
+A new Flutter project.
 
-### Home & Cloud Screen
+## Getting Started
 
-On this file manager design has two pages. The Home page displays file usage information, categories, and some of the recent files. The cloud page it contains a list of services and a list of folders.
+This project is a starting point for a Flutter application.
 
-![file manager thumbnail](https://user-images.githubusercontent.com/89120990/133015254-ba4b3485-b923-4131-848f-29f628d86f5b.png)
-![file manager - demo](https://user-images.githubusercontent.com/89120990/135745934-3d0ef8c0-3bbb-48b6-b865-2f506ac07e4f.gif)
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-**Dependencies:**
-
-- [carousel_slider](https://pub.dev/packages/carousel_slider)
-- [filesize](https://pub.dev/packages/filesize)
-- [get](https://pub.dev/packages/get)
-- [percent_indicator](https://pub.dev/packages/percent_indicator)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
